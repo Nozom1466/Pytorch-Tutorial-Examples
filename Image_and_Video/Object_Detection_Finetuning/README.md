@@ -1,6 +1,6 @@
 ## Takeaways
 
-> Code in the tutorial CANNOT get the same performance as the proposed result with scores below `0.5` on average. (Notice `torchvision` version difference)
+> Code in the tutorial CANNOT get the same performance in the tutorial (my model's score is below `0.5` on average). (Notice `torchvision` version difference)
 > Image data type in  `Visualization` part is really a mess....😰:
 > (QUESTION) Is there any difference between training on CPU and training on GPU ? (Better performance on Colab GPU for me...)
 
