@@ -9,7 +9,7 @@
 Despite the complex environment and outdated preinstalled packages(cases), It's always a better choice to take advantage of the GPU resource than to run the code locally. The `XiaoXinPro 16IHU 2021` features a 2-GB Nvidia GPU, which is not enough to run a decent model, whereas `Colab` or `Kaggle` notebook offers 15-GB GPU with various types.
 
 
-**DO NOT HESITATE TO LAUNCH A PROJECT ON COLAB! 😭: **
+**DO NOT HESITATE TO LAUNCH A PROJECT ON COLAB! 😭**
 
 
 ### Styled Python coding from `Google`
