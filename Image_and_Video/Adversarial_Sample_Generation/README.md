@@ -6,11 +6,8 @@ The work on defense from attacks like FGSA also leas into the idea of making mod
 to both naturally perturbed and adversarially crafted inputs.
 
 
-(QUSTION) Does this strategy has something to do with data augmentation?
-
-
 ![FGSA_panda](https://pytorch.org/tutorials/_images/fgsm_panda_image.png)
-
+> (QUSTION) Does this strategy has something to do with data augmentation? 🤔:
 
 
 ### Load `.pth` checkpoint
